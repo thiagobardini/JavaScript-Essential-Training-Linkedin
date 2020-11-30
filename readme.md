@@ -1,4 +1,4 @@
-# JavaScript Essetial Training
+# JavaScript Essential Training
 ![](https://miro.medium.com/max/1200/1*tmD_elC_QhRU0Cag2cKoKA.jpeg)
 
 
