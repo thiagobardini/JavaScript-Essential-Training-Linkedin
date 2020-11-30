@@ -1,5 +1,6 @@
 # JavaScript Essential Training
 ![](https://miro.medium.com/max/1200/1*tmD_elC_QhRU0Cag2cKoKA.jpeg)
+- [Click here to see the course](https://www.linkedin.com/learning/javascript-essential-training-3)
 
 Learning objectives by branches:
 - 02 What is JavaScript? 
