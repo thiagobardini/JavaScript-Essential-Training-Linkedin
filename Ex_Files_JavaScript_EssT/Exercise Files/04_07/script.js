@@ -6,10 +6,16 @@ function findBiggestFraction(a,b) {
 
 	a>b ? result = ["a",a] : result = ["b",b];
     return result;
+    
 }
 
-var firstFraction = 7/16;
+var firstFraction = 25/16;
 var secondFraction = 13/25;
 
+// array
+
 var fractionResult = findBiggestFraction(firstFraction,secondFraction);
+
 console.log("Fraction " + fractionResult[0] + " with a value of " + fractionResult[1] + " is the biggest.");
+
+// console.log(result)
