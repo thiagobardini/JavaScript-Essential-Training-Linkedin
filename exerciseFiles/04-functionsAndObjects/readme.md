@@ -100,18 +100,55 @@ Usando o array index é possivel chamar cada o objeto dentro da array.
 ![](https://i.imgur.com/8Wq4tt7.png)
 Posso chamar o Method tbm usando o array index
 
-### Sidebar: Dot and bracket notation
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+### 04-11 Sidebar: Dot and bracket notation
+![](https://i.imgur.com/YQEgG3Y.png)
+Dot and Bracet tem a mesma funcao no JS. Mas a funcao com parenteses(bracet) 
+é usado para converter para string. Como no exemplo acima, o WP:image veio de um banco
+ de dados or PHP por exemplo, quando é separado por ponto o JS nao considera os dois
+  pontos, e não entende que WP:image é uma property, por isso usamos o brackets para converter para string, com isso o interpretador entende que é um property.
+
+### 04-12 Closures
+![](https://i.imgur.com/KC3VD9x.png)
+Essa é uma funcao que vai calcular os valores que estao dentro do funcao, que
+ sao as variables, e resultura um return que está vinculado ao variable the result. 
+ <br>
+ Se input `a` ou `b` ou `sum` o valor da variable dentro do console, o resultado será um erro, pq é uma variable local
+
+![](https://i.imgur.com/rUASbFF.png)
+- agora a variable theResult armazena a function multiply().
+- agora se run de console como theResult() como function, eu recebo o valor da calculo.
+ 
+![](https://i.imgur.com/jrT4G0b.png)
+O que está selecionado acima é considerado um CLOSURE. 
+- Definicao de CLOSURE: é uma funcao dentro de outra funcao, que permite que variaveis
+fora da funcao se relacionem.
+![](https://i.imgur.com/gwLKl7j.png)
+Pq temos essa features? só possivel fazer esse calculo, pq temos essa estura de CLOSURE
+![](https://i.imgur.com/w3fFDu6.png)
+CLOSURES pode ser muito mais complexo, o site acima é para referencia
+
+## QUIZ - Using functions and objects
+![](https://i.imgur.com/DSh3OkM.png)
+![](https://i.imgur.com/rCCUrB0.png)
+![](https://i.imgur.com/RtQIxgO.png)
+![](https://i.imgur.com/S1ZiEvg.png)
+![](https://i.imgur.com/3UbC0pU.png)
+![](https://i.imgur.com/mhT84Mr.png)
+![](https://i.imgur.com/CoYbRce.png)
+![](https://i.imgur.com/tpKihRI.png)
+![](https://i.imgur.com/WmYdDA2.png)
+![](https://i.imgur.com/acS4xZA.png)
+![](https://i.imgur.com/S6jWLrt.png)
+![](https://i.imgur.com/aZhWsHe.png)
+![](https://i.imgur.com/hsLoigr.png)
+![](https://i.imgur.com/OX7bK8w.png)
+![](https://i.imgur.com/dOB4iVT.png)
+![](https://i.imgur.com/MU5Lr1F.png)
+![](https://i.imgur.com/etS4Zu9.png)
+![](https://i.imgur.com/bmlG2Wr.png)
+![](https://i.imgur.com/bqy1gPu.png)
+![](https://i.imgur.com/4AJde1i.png)
+![](https://i.imgur.com/wqjeVP5.png)
+![](https://i.imgur.com/ndKOeLK.png)
+![](https://i.imgur.com/dLF1hX8.png)
+
