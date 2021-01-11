@@ -156,7 +156,7 @@ function example(pixels){
       return pixels/baseValue;
    }
    // let mathExample = pixels/baseValue;
-   // se a funcao acima, nao é possivel calcular os numeros
+   // A funcao acima, nao é possivel fazer a operacao math
    return mathExample;
 }
 
@@ -165,7 +165,7 @@ const mediaSize = example(18);
 
 
 console.log("Small Size: "+smallSize());
-// Tem que colocar as chavez no final do smallSize() para fazer o calculo
+// Tem que colocar as chaves no final do smallSize() para fazer o calculo
 console.log("Small Size: "+mediaSize());
 `````
 
