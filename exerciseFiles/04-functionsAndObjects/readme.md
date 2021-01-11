@@ -99,7 +99,30 @@ Usando o array index é possivel chamar cada o objeto dentro da array.
 - se quiser chamar uma epecifica property use a estrutura acima: objeto[index#].property
 ![](https://i.imgur.com/8Wq4tt7.png)
 Posso chamar o Method tbm usando o array index
+`````
+function ThiagoObjConstructor(name, idade, profissao,views) {
+   this.name = name;
+   this.idade = idade;
+   this.profissao = profissao;
+   this.views = views;
+   this.updateViews = function(){
+      return ++this.views;
+   };
+};
 
+// let firstClient = new ThiagoObjConstructor("thiago", 35, "software engineer", 0);
+// let firstClient = new ThiagoObjConstructor("Caroline", 26, "Psicologa", 0);
+
+// or eu posso usar um array
+
+let clients = [
+   new ThiagoObjConstructor("thiago", 35, "software engineer", 0),
+   new ThiagoObjConstructor("Caroline", 26, "Psicologa", 10)
+]
+
+console.log(clients[1]);
+console.log(clients[1].updateViews());
+`````
 ### 04-11 Sidebar: Dot and bracket notation
 ![](https://i.imgur.com/YQEgG3Y.png)
 Dot and Bracet tem a mesma funcao no JS. Mas a funcao com parenteses(bracet) 
