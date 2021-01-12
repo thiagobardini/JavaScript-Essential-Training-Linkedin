@@ -75,5 +75,49 @@ da pra remover tbm
 ![](https://i.imgur.com/089Hqlk.png)
 
 ### 05-05 Access and change attributes
+![](https://i.imgur.com/rMUuHIo.png)
+Attributes é read onlye sempre se refere a um URL-> tempos alguns tipos de attributes abaixo
+![](https://i.imgur.com/HfU1U9k.png)
+Element.hasAttribuite() -> é para Boolean
+![](https://i.imgur.com/kut1pOe.png)
+Element.getAttribuite() -> returns their value of specified on the element.
+![](https://i.imgur.com/KkFYD09.png)  
+Element.setAttribuite()
+![](https://i.imgur.com/QrUagzN.png)
+Element.removeAttribuite()
+![](https://i.imgur.com/fwgTvzG.png)
+Exercicio 05_05 -> tem um exercicio na pasta JS -> script.js se referindo ao arquivo index.js
+![](https://i.imgur.com/vALyM5J.png)
+![](https://i.imgur.com/Vs3UYLJ.png)
+script.js estava vazio, eu coloque os attribuites methods para add o target="_blank" na minha URL
+![](https://i.imgur.com/Om9rli8.png)
+![](https://i.imgur.com/3F2y8ZA.png)
+Frequentemente esses metodos de atribuitos é usado para ADD ou change standard attributes, tipo links e customizar os dados do atribuitos. Podendo se fazer em qualquer atribuito dentro do documento. 
+
+### 05-05 Add DOM elements 
+![](https://i.imgur.com/oS6dQZG.png)
+Exemplo de como mudar o texto usando o HTML 
+![](https://i.imgur.com/flsVBVr.png)
+Exercicio add um figcaption no meu node acima
+![](https://i.imgur.com/DetSIcu.png)
+como deve ficar
+![](https://i.imgur.com/8HC22Ta.png)
+![](https://i.imgur.com/9p3RJR0.png)
+![](https://i.imgur.com/OzKbDai.png)
+Exercicio 05_06 - moonwalk.html
+![](https://i.imgur.com/yW0PHUL.png)
+antes sem aplicacao dos elements
+![](https://i.imgur.com/N6yJprs.png)
+![](https://i.imgur.com/qF6L4Sd.png)
+![]()
+![](https://i.imgur.com/pGuUqIj.png)
+Existe um novo metodo que simplifica essas etapas no meu JS, mas os antigos browser nao surpotam esse novo method.
+![](https://i.imgur.com/GWxQtbF.png)
+captionElement.append(alText)
+
+### 05-05 Add inline CSS to an Element
+![]()
+![]()
+![]()
 ![]()
 ![]()
