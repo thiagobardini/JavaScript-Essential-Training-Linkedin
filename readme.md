@@ -67,3 +67,16 @@ Learning objectives by branches:
 ![](https://i.imgur.com/wqjeVP5.png)
 ![](https://i.imgur.com/ndKOeLK.png)
 ![](https://i.imgur.com/dLF1hX8.png)
+
+## QUIZ - 05 Working with JavaScript and the DOM
+![](https://i.imgur.com/M8GrXya.png)
+![](https://i.imgur.com/SplkE3j.png)
+![](https://i.imgur.com/Ua4FssR.png)
+![](https://i.imgur.com/GdaOnxr.png)
+![](https://i.imgur.com/a74L63c.png)
+![](https://i.imgur.com/IJYMBUe.png)
+![](https://i.imgur.com/lHTjaFl.png)
+![](https://i.imgur.com/1RxtrQR.png)
+![](https://i.imgur.com/3iiKvLn.png)
+![](https://i.imgur.com/PZ9tOyo.png)
+![](https://i.imgur.com/eT4Zus8.png)

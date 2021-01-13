@@ -103,6 +103,7 @@ Exercicio add um figcaption no meu node acima
 como deve ficar
 ![](https://i.imgur.com/8HC22Ta.png)
 ![](https://i.imgur.com/9p3RJR0.png)
+createElement()
 ![](https://i.imgur.com/OzKbDai.png)
 Exercicio 05_06 - moonwalk.html
 ![](https://i.imgur.com/yW0PHUL.png)
@@ -115,7 +116,43 @@ Existe um novo metodo que simplifica essas etapas no meu JS, mas os antigos brow
 ![](https://i.imgur.com/GWxQtbF.png)
 captionElement.append(alText)
 
-### 05-05 Add inline CSS to an Element
+### 05-05 Add Inline CSS to an Element
+![](https://i.imgur.com/doouheM.png)
+inline CSS -> JS sempre works com individuals elements. Nunca vai trabalhar com uma pagina de CSS
+![](https://i.imgur.com/DQNjvF0.png)
+Return o CSS daquele especifico elemento
+- CSSSTyleDeclaration -> esta dizendo que nao tem nenhum Inline CSS para esse elemento. Nao que nao tenha CSS nesse elemento, só que o  JS só lê o CSS que está atribuito diretamente inline para esse elemento.
+![](https://i.imgur.com/4jjTcnp.png)
+Usando a linha de codigo acima é possivel add color para o meu elemento INLINE
+![](https://i.imgur.com/5ACfSY3.png)
+HTML page com a class="cta" com style já atribuido em INLINE
+![](https://i.imgur.com/vZXmVz0.png)
+Atribuindo background
+![](https://i.imgur.com/bxvQggb.png)
+HTML page com a class="cta" com style já atribuido em INLINE
+![](https://i.imgur.com/1OhfdDm.png)
+É possivel tbm modificar multiplos CSS ao mesmo tempo usando .style.cssText = "...CSS.."
+![](https://i.imgur.com/3qlzeBp.png)
+HTML page com a class="cta" com style já atribuido em INLINE
+![](https://i.imgur.com/bYbu19m.png)
+![](https://i.imgur.com/BMBBza1.png)
+- Inline CSS é attribuite com properties e values.
+- Por Isso podemos usar um atribuitos acima, podendo interagir com diferentes styles
+![](https://i.imgur.com/ggEsfqK.png)
+usando setAttribute -> de atribuito é o style e o valor é a propriedade o padding separado por virgula
+![](https://i.imgur.com/vxzr23J.png)
+modificando todo inline dentro do CSS que tinhamos acabado de inserir
+![](https://i.imgur.com/qAhSjUE.png)
+para add mais CSS é só separar com ; 
+![](https://i.imgur.com/H8Mmc7O.png)
+Tips:
+- quando usamos inline CSS sempre vamos reescrever o CSS, podendo dar problema.
+- A melhor forma para utilizar é atribuir uma nova class e atribuir esses style css para esse classe e remover ou add class para modificar o style do elemento. É mais facil para gerenciar dessa forma.
+
+## QUIZ - 05 Working with JavaScript and the DOM
+![]()
+![]()
+![]()
 ![]()
 ![]()
 ![]()
