@@ -150,11 +150,14 @@ Tips:
 - A melhor forma para utilizar é atribuir uma nova class e atribuir esses style css para esse classe e remover ou add class para modificar o style do elemento. É mais facil para gerenciar dessa forma.
 
 ## QUIZ - 05 Working with JavaScript and the DOM
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://i.imgur.com/M8GrXya.png)
+![](https://i.imgur.com/SplkE3j.png)
+![](https://i.imgur.com/Ua4FssR.png)
+![](https://i.imgur.com/GdaOnxr.png)
+![](https://i.imgur.com/a74L63c.png)
+![](https://i.imgur.com/IJYMBUe.png)
+![](https://i.imgur.com/lHTjaFl.png)
+![](https://i.imgur.com/1RxtrQR.png)
+![](https://i.imgur.com/3iiKvLn.png)
+![](https://i.imgur.com/PZ9tOyo.png)
+![](https://i.imgur.com/eT4Zus8.png)

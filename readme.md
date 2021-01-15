@@ -80,3 +80,9 @@ Learning objectives by branches:
 ![](https://i.imgur.com/3iiKvLn.png)
 ![](https://i.imgur.com/PZ9tOyo.png)
 ![](https://i.imgur.com/eT4Zus8.png)
+
+## QUIZ - 06 Handling events
+![](https://i.imgur.com/qf8lpX3.png)
+![](https://i.imgur.com/YbQ4nAv.png)
+![](https://i.imgur.com/BTzQVu7.png)
+![](https://i.imgur.com/kDgbJcD.png)
