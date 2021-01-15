@@ -15,7 +15,8 @@ Learning objectives
 - 10 Validating functionality
 - 11 Minifying JavaScript
 
-# 06 - Handling events
+# 06 - Handling events - PROJECT
+![](https://i.imgur.com/Itrd19Y.png)
 
 ### setInterval()
 Metodo para mover os ponteiros do relogio
