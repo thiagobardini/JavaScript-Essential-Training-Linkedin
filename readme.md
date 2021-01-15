@@ -4,16 +4,16 @@
 
 Learning objectives by branches:
 - 02 What is JavaScript? 
-- 03 Working with data
-- 04 Using functions and objects
-- 05 Working with JavaScript and the DOM
-- 05 Changing DOM elements
-- 06 Handling events
-- 07 Working with loops
-- 08 Making images responsive using markup
-- 09 Troubleshooting code
-- 10 Validating functionality
-- 11 Minifying JavaScript
+- 03 Working with Data
+- 04 Functions and Objects
+- 05 Part 1 - JavaScript and the DOM
+- 06 Project - Create an Analog Clock
+- 07 Part 2 - JS and the DOM - Events  
+- 08 Project - Typing Speed Tester
+- 09 Loops
+- 10 Project - Automated Resposive Images Markup
+- 11 Troubleshooting, Validating, and Minifying JS
+- 12 Bonus Chapter: Ask The Instructor
 
 ## QUIZ - 02 What is JavaScript? 
 ![](https://i.imgur.com/i3n9M0P.png)

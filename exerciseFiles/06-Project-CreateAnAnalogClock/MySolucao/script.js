@@ -33,4 +33,3 @@ var interval = setInterval(runTheClock, 1000);
 // Mudandado a logica do codigo, muda a logica de como o codigo vai mostrar a pagina..  
 // nesse exemplo foi tirado o transform do css para que nao tivesse o efeito, mas quando o relogio chegava no 360 degree e voltava para posicao zero, os poiteiros fazia uma volta antihorario.. por isso q foir add movimento por distancia dentro da funcao
 // se caso nao tivesse no css o transform efeito, nao precisaria colocar movimentos por distancia de cada ponteiro..orrax entendes?
-
