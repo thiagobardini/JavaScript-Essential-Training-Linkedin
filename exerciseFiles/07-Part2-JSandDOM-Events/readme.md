@@ -28,4 +28,22 @@ Common DOM Events
 Other Events
 ![](https://i.imgur.com/HOvblN2.png)
 Full List Event
+- [MDN Web ZDocs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### 07-03 Trigger functions with event handlers
+![](https://i.imgur.com/8J9CdHn.png)
+a class Hide está escondendo `<a>`
+![](https://i.imgur.com/UkbiYdF.png)
+se eu tiro a class hide o meu `<a>`aparece
+![](https://i.imgur.com/qmxud8K.png)
+usando o method toggle para hide e unhide um elemento
+![](https://i.imgur.com/RiimzlO.png)
+Com o código acima, vou usar o toggle o texto do Book Now, e quando eu clico untoggle texto.. o problema é que quando eu clico o meu `href="#"` leva a pagina para topo
+![](https://i.imgur.com/Kc5J5uX.png)
+Book Now desaparece.. e aparece o texto
+![](https://i.imgur.com/ZBmtmb6.png)
+para prevenir q  `href="#"` te leve para o top eu incluo `e.preventDefault()` fazendo que a minha pagina fique fixa.
+
+### 07-04
+![]()
+![]()
 ![]()
