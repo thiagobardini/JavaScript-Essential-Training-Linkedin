@@ -88,7 +88,7 @@ Learning objectives by branches:
 ![](https://i.imgur.com/kDgbJcD.png)
 
 ## QUIZ - 07 Part 2 - JS and the DOM - Events  
-![]https://i.imgur.com/T7KCW05.png)
+![](https://i.imgur.com/T7KCW05.png)
 ![](https://i.imgur.com/BXbZQsc.png)
 ![](https://i.imgur.com/budVIgi.png)
 ![](https://i.imgur.com/A8lqB2W.png)
