@@ -8,12 +8,20 @@ const ALERT = document.querySelector("#booking-alert");
 CTA.classList.remove("hide");
 ALERT.classList.add("hide");
 
-function reveal(e) {
-     // e.prevent.. faz a minha pagina ficar fixa quando eu clico
+// e.prevent.. faz a minha pagina ficar fixa quando eu clico
+function reveal(e,current) {
    e.preventDefault();
-   CTA.classList.toggle("hide");
-   ALERT.classList.toggle("hide");
+   
+   current.innerHTML == "Book Now!" ? CTA.innerHTML = "Oooops!" : CTA.innerHTML = "Book Now!";
+  // Nao estou hide mais o CTA, inves disso quando eu clico aparece a "Oooops!" e se clicar de novo volta para o BOOK NOW!
+   
+  ALERT.classList.toggle("hide");
 }
 
-CTA.onclick = reveal;
+// CTA.onclick = reveal;
+// CTA.onclick = console.log("The button was clicked!")
+
+CTA.addEventListener("click", function(e){ reveal(e,this);}, false);
+// this -> reference a CTA =  .cta a
+CTA.addEventListener("click", function(){console.log("The button was clicked!!");}, false);
 

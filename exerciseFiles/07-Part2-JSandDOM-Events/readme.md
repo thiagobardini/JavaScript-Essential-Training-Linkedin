@@ -33,7 +33,7 @@ Full List Event
 ![](https://i.imgur.com/8J9CdHn.png)
 a class Hide está escondendo `<a>`
 ![](https://i.imgur.com/UkbiYdF.png)
-se eu tiro a class hide o meu `<a>`aparece
+- se eu tiro a class hide o meu `<a>`aparece
 ![](https://i.imgur.com/qmxud8K.png)
 usando o method toggle para hide e unhide um elemento
 ![](https://i.imgur.com/RiimzlO.png)
@@ -42,8 +42,15 @@ Com o código acima, vou usar o toggle o texto do Book Now, e quando eu clico un
 Book Now desaparece.. e aparece o texto
 ![](https://i.imgur.com/ZBmtmb6.png)
 para prevenir q  `href="#"` te leve para o top eu incluo `e.preventDefault()` fazendo que a minha pagina fique fixa.
+- Chamar preventDefault durante qualquer fase do fluxo de eventos cancela o evento, o que significa que qualquer ação padrão normalmente feita pela aplicação como um resultado do evento não ocorrerá.
 
-### 07-04
-![]()
-![]()
-![]()
+### 07-04 Add and use event listeners
+![](https://i.imgur.com/YAaQw1I.png)
+Se quiser usar dois eventos para o mesmo elemento com o codigo acima `click = cosole.log ...` isso ja vai quebrar o meu codigo de novo. Quando eu clico no botao a minha pagina vai para o topo e agora nem o css hide esta sendo mais aplicado, fazendo que o meu codigo rode apenas uma vez.
+![](https://i.imgur.com/6O7gmlr.png)
+Usando addEventListener.. podendo usar dois eventos no mesmo elemento multipla vezes
+- o ultimo paramentro false no final é que vamos usar agora.. caso no futuro eu use true, ja estamos entrando em funcoes mais avancadas do JS. O true ele vai empilha evento no topo de outro evento.
+### 07-05 Pass arguments via event listeners
+![](https://i.imgur.com/w2mI71J.png)
+
+## QUIZ - 07 Part 2 - JS and the DOM - Events  
