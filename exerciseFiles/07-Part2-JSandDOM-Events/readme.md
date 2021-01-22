@@ -54,3 +54,13 @@ Usando addEventListener.. podendo usar dois eventos no mesmo elemento multipla v
 ![](https://i.imgur.com/w2mI71J.png)
 
 ## QUIZ - 07 Part 2 - JS and the DOM - Events  
+![]https://i.imgur.com/T7KCW05.png)
+![](https://i.imgur.com/BXbZQsc.png)
+![](https://i.imgur.com/budVIgi.png)
+![](https://i.imgur.com/A8lqB2W.png)
+![](https://i.imgur.com/RwUG6nb.png)
+![](https://i.imgur.com/3PODllT.png)
+![](https://i.imgur.com/3PODllT.png)
+![](https://i.imgur.com/jkUv1EJ.png)
+![](https://i.imgur.com/imq9urL.png)
+![](https://i.imgur.com/FBBotWO.png)
